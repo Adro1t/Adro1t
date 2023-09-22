@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raman Khadgi</h1>
-<h3 align="center">an aspiring web developer with a strong passion for creating websites and web applications.</h3>
+<h3 align="center">
+I'm an aspiring and passionate web developer with a flair for crafting dynamic websites and web applications. I'm constantly exploring new technologies and techniques to enhance my skills.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adro1t&label=Profile%20views&color=0e75b6&style=flat" alt="adro1t" /> </p>
 
@@ -7,7 +9,7 @@
 
 - 💬 Ask me about **MERN, Tech Stuffs**
 
-- 📫 How to reach me **ramankhadgi0@gmail.com**
+- 📫 You can reach me through **ramankhadgi0@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under a minute**
 
@@ -37,21 +39,22 @@
   </a>
 
 <h3>FrontEnd Development</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
+
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</a> 
 
 <h3>BackEnd Development</h3>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
@@ -106,5 +109,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adro1t&show_icons=true&locale=en&layout=compact" alt="adro1t" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adro1t&show_icons=true&locale=en" alt="adro1t" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adro1t&" alt="adro1t" /></p>
