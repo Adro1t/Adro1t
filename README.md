@@ -95,12 +95,12 @@ I'm an aspiring and passionate web developer with a flair for crafting dynamic w
 
 <h3>Github Statistics</h3>
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adro1t&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adro1t&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adro1t&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+<h3>Top Contributed Repo</h3>
+
 ![](https://github-contributor-stats.vercel.app/api?username=Adro1t&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
 ---
