@@ -98,3 +98,15 @@ I'm an aspiring and passionate web developer with a flair for crafting dynamic w
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adro1t&show_icons=true&locale=en&layout=compact" alt="adro1t" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adro1t&show_icons=true&locale=en" alt="adro1t" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adro1t&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adro1t&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adro1t&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adro1t&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Adro1t&icon=0&color=3)](https://visitcount.itsvg.in)
+
