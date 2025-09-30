@@ -95,10 +95,6 @@ I'm an aspiring and passionate web developer with a flair for crafting dynamic w
 
 <h3>Github Statistics</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adro1t&show_icons=true&locale=en&layout=compact" alt="adro1t" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adro1t&show_icons=true&locale=en" alt="adro1t" /></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adro1t&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adro1t&theme=github_dark&hide_border=false)<br/>
